@@ -1,2 +1,2 @@
-# Projet de détection de fraude
-Les fraudes par carte de crédit constituent une préoccupation majeure pour les institutions financières et les consommateurs. Dans ce projet, nous utilisons des techniques d'apprentissage automatique pour identifier les transactions frauduleuses et renforcer la sécurité des transactions financières.
+#Credit Card Fraud Detection Project
+Credit card fraud is a major concern for financial institutions and consumers. In this project, we use machine learning techniques to identify fraudulent transactions and enhance the security of financial transactions.
